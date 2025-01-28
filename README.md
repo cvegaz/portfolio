@@ -8,3 +8,6 @@ Using Python, I created a solution to reduce the time required to fill out a for
 In this project, I designed and maintained a database for a sports team, enabling the extraction of valuable information for decision-making. The database provided insights that enhanced operational strategies and allowed the team to make data-driven decisions efficiently.
 ________________________________________
 Feel free to explore my portfolio and reach out if you have any questions or feedback! 😊
+
+[Power BI DashBoard](portfolio/power_bi)
+
