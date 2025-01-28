@@ -9,5 +9,5 @@ In this project, I designed and maintained a database for a sports team, enablin
 ________________________________________
 Feel free to explore my portfolio and reach out if you have any questions or feedback! 😊
 
-[Power BI DashBoard](portfolio/power_bi)
+[Power BI DashBoard](power_bi)
 
