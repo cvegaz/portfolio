@@ -33,10 +33,7 @@ The dataset used contains the following key columns:
    - Displays **main impacting factors** side by side.  
    - Allows filtering by **work shift** and **operating machine** combinations.  
 5. **Implementation of the OEE (Overall Equipment Effectiveness) index**, calculated in DAX, as a benchmark for performance improvement.
-
-<p align="left">
-  <img src="Data_mng.png" alt="Data" align="right">
-</p>
+![Data](Data_mng.png)
 ## 📈 Dashboard Overview  
 The final dashboard provides an **interactive visualization** that allows users to:  
 ✅ Identify major causes of downtime.  
