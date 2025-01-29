@@ -50,6 +50,7 @@ The final dashboard provides an **interactive visualization** that allows users 
 ✅ Compare planned vs. actual production output.  
 ✅ Assess OEE and other key efficiency metrics.  
 ✅ Drill down by work shifts and machines for deeper insights.  
+![Dashboard](Machine_DBoard.png)
 
 ## 🏁 Conclusions  
 - The analysis provided **clear areas of improvement** to minimize downtime and increase machine efficiency.  
@@ -59,8 +60,4 @@ The final dashboard provides an **interactive visualization** that allows users 
 
 🔹 **Next Steps**: Integration of machine learning models to predict downtime based on historical trends.
 
----
-
-### 📌 **Project Repository**  
-🔗 [GitHub Repository](INSERT_YOUR_REPO_LINK_HERE)  
 
