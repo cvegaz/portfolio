@@ -5,7 +5,7 @@ In this project, we analyze the most critical areas where processes can be optim
 
 ## ⚠️ Problem Statement  
 Manufacturing efficiency is often impacted by unplanned downtime and defective products, leading to increased costs and reduced production capacity. Our goal is to identify key improvement points by analyzing historical data to optimize machine operation and minimize defective output.
-
+![Dashboard](Machine_DBoard.png)
 ## 📊 Impact  
 - **Increased machine availability** by identifying and reducing downtime causes.  
 - **Optimized production performance** by adjusting machine speed and capacity.  
@@ -41,7 +41,7 @@ The final dashboard provides an **interactive visualization** that allows users 
 ✅ Compare planned vs. actual production output.  
 ✅ Assess OEE and other key efficiency metrics.  
 ✅ Drill down by work shifts and machines for deeper insights.  
-![Dashboard](Machine_DBoard.png)
+
 
 ## 🏁 Conclusions  
 - The analysis provided **clear areas of improvement** to minimize downtime and increase machine efficiency.  
