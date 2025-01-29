@@ -15,24 +15,15 @@ Manufacturing efficiency is often impacted by unplanned downtime and defective p
 ## 📂 Data Set  
 The dataset used contains the following key columns:  
 
-- **Work Group**  
-- **Machine**  
-- **Planned Time (hrs)**  
-- **Downtime (min)**  
-- **Downtime Cause**  
-- **Productive Time**  
-- **Availability %**  
-- **Machine Speed (Pcs/min)**  
-- **Production Capacity (pcs)**  
-- **Actual Production**  
-- **Performance %**  
-- **Defective Pieces**  
-- **Defect Causes**  
-- **Non-Defective Pieces**  
-- **Quality %**  
-- **Machine Hourly Cost**  
-- **Cost per Piece**  
-
+```
+| **Work Group** | **Machine** | **Planned Time (hrs)** |
+| **Downtime (min)** | **Downtime Cause** | **Productive Time** |
+| **Availability %** | **Machine Speed (Pcs/min)** | **Production Capacity (pcs)** |
+| **Actual Production** | **Performance %** | **Defective Pieces** |
+| **Defect Causes** | **Non-Defective Pieces** | **Quality %** |
+| **Machine Hourly Cost** | **Cost per Piece** | |
+```
+![Data Set](data.png)
 ## 🔍 Methodology  
 1. **Exploratory Data Analysis (EDA)** to understand trends, anomalies, and key downtime causes.  
 2. **Data Cleaning and Transformation** using Power BI tools.  
@@ -43,6 +34,9 @@ The dataset used contains the following key columns:
    - Allows filtering by **work shift** and **operating machine** combinations.  
 5. **Implementation of the OEE (Overall Equipment Effectiveness) index**, calculated in DAX, as a benchmark for performance improvement.
 
+<p align="left">
+  <img src="Data_mng.png" alt="Data" align="right">
+</p>
 ## 📈 Dashboard Overview  
 The final dashboard provides an **interactive visualization** that allows users to:  
 ✅ Identify major causes of downtime.  
