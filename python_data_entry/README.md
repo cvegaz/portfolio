@@ -4,6 +4,8 @@
 
 This repository contains Python scripts designed to automate various tasks related to record management and file handling. It leverages **Selenium WebDriver** to interact with web pages, perform form submissions, and navigate through different sections of a website.
 
+`<https://www.youtube.com/watch?v=KIzI0PT7JfE>`
+
 ## 📂 Repository Structure
 
 - **`sendKeys.py`** – Uses Selenium WebDriver to automate data entry in a web form. It checks whether a student is already registered or if new data needs to be added.  
