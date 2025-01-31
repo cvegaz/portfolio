@@ -95,6 +95,7 @@ I followed an **agile approach** to develop and optimize the automation:
 📂 **A structured folder and naming system improved file retrieval and tracking.**
 
 ✅ **Selenium WebDriver proved to be an efficient tool for web-based automation.**
+
 ---
 
 
