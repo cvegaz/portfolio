@@ -89,9 +89,9 @@ I followed an **agile approach** to develop and optimize the automation:
 5️⃣ **Deployment & Maintenance** – Ensured scripts can run consistently with minimal supervision.  
 
 ---
-🔍 Conclusions
-🚀 The automation reduced registration time from minutes to seconds.
-📂 A structured folder and naming system improved file retrieval and tracking.
-✅ Selenium WebDriver proved to be an efficient tool for web-based automation.
+🔍 **Conclusions
+🚀 **The automation reduced registration time from minutes to seconds.
+📂 **A structured folder and naming system improved file retrieval and tracking.
+✅ **Selenium WebDriver proved to be an efficient tool for web-based automation.
 
 
