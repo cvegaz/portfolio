@@ -10,4 +10,6 @@ ________________________________________
 Feel free to explore my portfolio and reach out if you have any questions or feedback! 😊
 
 [Power BI DashBoard](power_bi)
+[Python-Web_Automat](python_web_Automat)
+[Power BI DashBoard](sql_football_DB)
 
