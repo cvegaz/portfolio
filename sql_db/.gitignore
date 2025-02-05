@@ -1,7 +1,0 @@
-# .gitignore
-*.log
-*.env
-*.vscode
-venv/
-data/*.csv
-data/*.xlsx
