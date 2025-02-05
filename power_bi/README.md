@@ -12,7 +12,7 @@ Manufacturing efficiency is often impacted by unplanned downtime and defective p
 - **Reduction in defective products**, improving overall quality and reducing waste.  
 - **Cost savings** by optimizing machine runtime and minimizing defects.
 
-## 📂 Data Set  
+## 📂 Data Set.  
 The dataset used contains the following key columns:  
 
 ```
