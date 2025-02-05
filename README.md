@@ -13,5 +13,5 @@ Feel free to explore my portfolio and reach out if you have any questions or fee
 
 [Python-Web_Automat](python_web_Automat)
 
-[Mysql football DB](sql_football_DB)
+[Mysql football DB](Mysql_DB)
 
